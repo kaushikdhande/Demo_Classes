@@ -22,12 +22,23 @@ public class StudentRegistration {
 		String id =sc.nextLine();
 		System.out.println("Enter College-Name :");
 		String college_name=sc.nextLine();
+		System.out.println("Enter Address :");
+		String address=sc.nextLine();
 		System.out.println("Enter Addhar-card :");
 		String addhaar =sc.nextLine();
 		System.out.println("Enter Email :");
 		String email =sc.next();
 		
-		
+		System.out.println(name);
+		System.out.println(age);
+		System.out.println(gender);
+		System.out.println(mob);
+		System.out.println(id);
+		System.out.println(college_name);
+		System.out.println(addhaar);
+		System.out.println(email);
+
+
 		
 		
 		
