@@ -46,6 +46,13 @@ public class Practice_Demo_Trail {
 //		System.out.println(e); //2.0
 		
 //												primitive datatypes
+//											wrapper classes
+//
+		
+//		int a=10;
+//		Integer i=new Integer(10);    //wrapper classes
+//		Integer i=10;  //autoboxing 
+		
 
 	}
 }
