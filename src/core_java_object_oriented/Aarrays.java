@@ -37,11 +37,11 @@ public class Aarrays {
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the length marks of students : ");
 		int n=sc.nextInt();
-		 a[] =new int[n];
+//		 a[] =new int[n];
 		
 		for(float i=0;i<n;i++) {
 			System.out.println("enter the marks  "+i );
-			a[i]=sc.nextFloat();
+//			a[i]=sc.nextFloat();
 		}
 		
 	}
