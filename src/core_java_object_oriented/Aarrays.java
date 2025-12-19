@@ -6,7 +6,8 @@ public class Aarrays {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//one dimensinal array
-		
+				
+					//integer type
 //		Scanner sc=new Scanner(System.in);
 //		System.out.println("Enter the length marks of students : ");
 //		int n=sc.nextInt();
@@ -31,6 +32,17 @@ public class Aarrays {
 		
 		
 //------------------------------------------------------------------------
+		
+		 		//float
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter the length marks of students : ");
+		int n=sc.nextInt();
+		 a[] =new int[n];
+		
+		for(float i=0;i<n;i++) {
+			System.out.println("enter the marks  "+i );
+			a[i]=sc.nextFloat();
+		}
 		
 	}
 
