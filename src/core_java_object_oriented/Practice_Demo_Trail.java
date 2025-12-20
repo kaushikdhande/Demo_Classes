@@ -1,5 +1,6 @@
 package core_java_object_oriented;
 
+import java.util.*;
 public class Practice_Demo_Trail {
 	public static void main(String[] args) {
 //		int _x=10;
@@ -53,7 +54,51 @@ public class Practice_Demo_Trail {
 //		Integer i=new Integer(10);    //wrapper classes
 //		Integer i=10;  //autoboxing 
 		
-
+												// copy content of arr 1 into another(array)
+//		int a[]=new int [5];
+//		a[0]=10;
+//		a[1]=20;
+//		a[2]=30;
+//		a[3]=40;
+//		a[4]=50;
+//		
+//		int [] b=new int [a.length];
+//		int j=a.length-1;
+////		for(int i=0;i<a.length;i++) {
+////			b[i]=a[i];
+////			}
+//		for(int i=0;i<a.length;i++) {
+//			b[i]=a[j];
+//			j--;
+//			}
+//
+//		for(int i=0;i<b.length;i++) {
+//			System.out.println(b[i]);
+//		}
+//		
+//												 //user enter input present in array print index
+//		int arr[]= {2,3,5,6,7,8,9};
+//		int index=0;
+//		Scanner sc=new Scanner(System.in);
+//		System.out.println("Enter the element :");
+//		int a=sc.nextInt();
+//		boolean found=false;
+//		for(int i=0;i<arr.length;i++) {
+//			if(arr[i]==a) {
+//				found =true;
+//				index =i;
+//				break;
+//			}
+//		 }	
+//		if(found ==true) {
+//			System.out.println(a+" found at index "+index);
+//		}
+//		else {
+//			System.out.println("not found");
+//		}
+	
+																		
+		
 	}
 }
  
