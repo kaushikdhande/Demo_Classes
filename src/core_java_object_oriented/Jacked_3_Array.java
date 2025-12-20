@@ -29,17 +29,8 @@ public class Jacked_3_Array {
 		//2
 		b[2][0]=new int [3];
 		b[2][1]=new int [2];
-		
-//		int value = 1;
-//		for (int i = 0; i < b.length; i++) {
-//		    for (int j = 0; j < b[i].length; j++) {
-//		        for (int k = 0; k < b[i][j].length; k++) {
-//		            b[i][j][k] = value++;
-//		        }
-//		    }
-//		}
-//		
-		
+			
+		//	eneter elements in array
 		for(int i=0;i<b.length;i++) {
 			for(int j=0;j<b[i].length;j++) {
 				for(int k=0;k<b[i][j].length;k++) {
@@ -51,6 +42,7 @@ public class Jacked_3_Array {
 		System.out.println();
 	}
 		
+		//   print
 		System.out.println("marks :");
 		for(int i=0;i<b.length;i++) {
 			for(int j=0;j<b[i].length;j++) {
