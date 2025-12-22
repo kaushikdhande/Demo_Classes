@@ -62,5 +62,20 @@ public class Swapping_two_numbers {
 	 sc.close();
 	}
 	
+//	-------------------------------------------------- input index swapping
+//	public static void main(String[] args) {
+//	Scanner in =new Scanner(System.in);
+//	int arr[]= {10,20,40,50,30};
+//	System.out.println("Enter the index 1 to swap :");
+//	int index1 =in.nextInt();
+//	System.out.println("Enter the index 2 to swap :");
+//	int index2=in.nextInt();
+//	int temp =arr[index1];
+//	arr[index1]=arr[index2];
+//	arr[index2]=temp;
+//	for(int i=0;i<arr.length;i++) {
+//		System.out.println(arr[i]+ " ");
+//	}
+//	}
 
 }
