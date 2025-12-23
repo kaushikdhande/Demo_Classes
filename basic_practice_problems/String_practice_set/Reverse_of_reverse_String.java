@@ -33,7 +33,7 @@ public class Reverse_of_reverse_String {
 		
 		String wordss[]=s.split(" ");
 		String res=" ";
-		for(String word :wordss) {
+		for(String word :wordss) {												//I ma norI naM;
 			for(int i=word.length()-1;i>=0;i--) {
 				res+=word.charAt(i);
 				
@@ -47,12 +47,13 @@ public class Reverse_of_reverse_String {
 		
 		System.out.println("------------------------------");
 		
-																		//I ma norI naM;
+
 		
 			String m=reverse_Words(s);
 			System.out.println(m);													//man iron am i
 		}
 		
 	}
+
 
 
