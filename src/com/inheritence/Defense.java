@@ -18,7 +18,7 @@ class Army extends Security_Force{
 	}
 	 protected void useTank() {
 			System.out.println("use Tank");
-
+ 
 	}
 }
 
