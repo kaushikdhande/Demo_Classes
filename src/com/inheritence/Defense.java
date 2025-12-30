@@ -1,5 +1,5 @@
 package com.inheritence;
-// tight coupling without code reduction
+// tight coupling without code reduction(False polymorphism)
 
 class Security_Force{
 	public  void job(){

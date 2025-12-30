@@ -1,5 +1,5 @@
 package com.inheritence;
-	// loose coupling without code reduction
+	// loose coupling without code reduction(polymorplism )
 class Trainer{
 	void teaches() {
 		System.out.println("trainer teaches !");
