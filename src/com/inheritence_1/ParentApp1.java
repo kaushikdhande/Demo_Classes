@@ -4,8 +4,8 @@ public class ParentApp1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		Child1 c=new Child1();
-		c.disp();
+//		Child1 c=new Child1();
+//		c.disp();
 	}
 
 }
