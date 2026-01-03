@@ -12,7 +12,7 @@ public class KodCalcii_A {
 		Scanner in=new Scanner(System.in);
 		System.out.println("Enter value of a");
 		int m=in.nextInt();
-		System.out.println("Enter value of a");
+		System.out.println("Enter value of b");
 		int n=in.nextInt();
 		System.out.println("Enter value of operator + - * /");
 		String op=in.next();
