@@ -3,9 +3,9 @@ import java.util.*;
 public class ShapesApp {	
 	
 	static void show(Shapes shape) {
-		System.out.println(shape.calculateArea());;
-		System.out.println(shape.calculateCircumference());
-		System.out.println(shape.calculatePerimeter());
+		System.out.println("Area :"+shape.calculateArea());;
+		System.out.println("Perimeter :"+shape.calculateCircumference());
+		System.out.println("Circumference :"+shape.calculatePerimeter());
 	}
 	public static void main(String[] args) {
 	Scanner sc=new Scanner(System.in);
