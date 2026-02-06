@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="basic_practice_problems"/>
 	<classpathentry kind="src" path="Project-1"/>
 	<classpathentry kind="src" path="Project-2"/>
+	<classpathentry kind="lib" path="D:/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0/mysql-connector-j-9.6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

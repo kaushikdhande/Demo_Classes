@@ -8,27 +8,32 @@ public class Holo_triangle {
         System.out.print("Enter the value of n: ");
         int n = sc.nextInt();
 
-        for ( i = 2; i < n; i++) {
+        for ( i = 0; i < n; i++) {
+
             for ( j = i; j < n; j++) {
                 System.out.print(" ");
             }
             while(k!=(2*i-1)) {
-            	if(k==0 ||k==2*i-2) {
-            		System.out.print("*");
-            	}
-            	else {
-            		System.out.print(" ");
-            	}
-            	k++;
+	            	if(k==0 ||k==2*i-2) {
+	            		System.out.print("*");
+	            	}
+	            	else {
+	            		System.out.print(" ");
+	            	
+	            	k++;
             }
-        	System.out.println();
-
+            System.out.println();
+         
         }
-        
         for(i=0;i<2*n-1;i++) {
         System.out.print("*");
         }
-      }    
-    }
+      
+        }}}
 
-	
+    
+
+		
+
+
+

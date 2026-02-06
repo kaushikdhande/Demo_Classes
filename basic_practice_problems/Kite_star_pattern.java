@@ -9,10 +9,10 @@ public class Kite_star_pattern {
 			}
 			
 			for(int k=1;k<=i;k++) {
-				System.out.print("+");
+				System.out.print("*");
 			}
 			for(int k=1;k<=i+1;k++) {
-				System.out.print("+");
+				System.out.print("*");
 			}
 			
 			System.out.println();
@@ -24,10 +24,10 @@ public class Kite_star_pattern {
 			}
 			
 			for(int k=1;k<=i;k++) {
-				System.out.print("+");
+				System.out.print("*");
 			}
 			for(int k=1;k<=i+1;k++) {
-				System.out.print("+");
+				System.out.print("*");
 			}
 			
 			System.out.println();
@@ -38,10 +38,10 @@ public class Kite_star_pattern {
 				System.out.print(" ");
 			}
 			for(int k=0;k<i+1;k++) {
-				System.out.print("+");
+				System.out.print("*");
 			}
 			for(int k=1;k<i+1;k++) {
-				System.out.print("+");
+				System.out.print("*");
 			}
 			System.out.println();
 		}
